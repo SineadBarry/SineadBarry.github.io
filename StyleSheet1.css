@@ -1,0 +1,29 @@
+﻿body {
+    background: rgb(2,0,36);
+    background: linear-gradient(90deg, rgba(2,0,36,1) 0%, rgba(174,174,198,1) 55%, rgba(113,104,219,0.9920343137254902) 91%);
+}
+img
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+}
+.paragraphs
+{
+    text-align:center;
+    width:100%;
+    font-size:25px;
+    font-family:'Century Gothic';
+    padding:6px;
+    color:antiquewhite;
+}
+.headings
+{
+    text-align:center;
+    width:100%;
+    font-size:35px;
+    font-family:'Century Gothic';
+    padding:6px;
+    color:antiquewhite;
+}
